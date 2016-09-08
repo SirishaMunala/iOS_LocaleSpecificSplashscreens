@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="localeSplash" name="localeSplash">
+    <container isflex="false" displayname="Form" id="frmHome" type="form"/>
+    <container isflex="false" displayname="Form" id="frmNext" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>
